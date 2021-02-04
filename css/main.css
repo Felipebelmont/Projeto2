@@ -1,0 +1,48 @@
+body{
+    height: 100%;
+    width: 1366px;
+    margin: 0 auto;
+    font-family: 'Open Sans',serif;
+
+}
+ul{
+    padding: 0px!important;
+}
+.menuprinc{
+    width: 100%;
+    background-color: #010e3a;
+    height: 88px;
+}
+main{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+}
+.logo{
+    padding: 14px;
+    width: 50%;
+    float: left;
+}
+.contato ul li{
+    margin-left: 7%;
+    display: inline-block;
+    list-style: none;
+}
+.contato{
+    width: 28%;
+    float: right;
+}
+.rodape2{
+    width: 100%;
+    background-color: #4e0705;
+    height: 75px;
+
+}
+.slogan{
+    float: right;
+    color: white;
+    margin: 1px;
+    margin-top: -4px;
+    
+}
+ 

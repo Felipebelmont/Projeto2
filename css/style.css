@@ -1,0 +1,58 @@
+.gallery{
+    width: 100%;
+    top: -49px;
+    padding: 0;
+
+    right: 41px;
+}
+.toro{
+    position: absolute;
+    left: 43%;
+    top: 49px;
+}
+.arquivos{
+    margin: 0 auto;
+    width: 980px;
+    position: relative;
+    text-align: center;
+    bottom: -64px;
+}
+.formulario{
+    background-color: #4e0705;
+    margin-top: -90px;
+    height: 100%;
+}
+.forms{
+    color: honeydew;
+    font-size: 23px;
+    background-color: #010e3a;
+    border-radius: 38px;
+    height: 52%;
+}
+#item-1{
+    background: transparent;
+}
+input, textarea{
+    width: 470px;
+    text-align: center;
+    padding: 10px;
+    text-align-last: center;
+    margin-top: auto;
+    margin-bottom: 1px;
+}
+.enviar input{
+    background-color: darkcyan;
+    border-radius: 25px;
+    border: 0px;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+.seuarquivo input{
+    width: 15px;
+    height: 15px;
+
+}
+
+ 
+    
